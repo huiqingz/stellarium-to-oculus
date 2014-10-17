@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/mainWindow">
+        <file>icon.bmp</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>shaders/xyYToRGB.glsl</file>
+        <file>qml/main.qml</file>
+        <file>splash.png</file>
+    </qresource>
+</RCC>
